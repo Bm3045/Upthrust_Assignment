@@ -1,11 +1,4 @@
-// App.jsx — React frontend for Mini Workflow Automation (No History)
-// -----------------------------------------------------------------
-// HOW TO USE
-// 1) Create a Vite React app (see instructions below).
-// 2) Add Tailwind (optional but recommended) or use plain CSS.
-// 3) Replace src/App.jsx with this file's contents.
-// 4) Add .env (Vite) with VITE_BACKEND_URL (e.g. http://localhost:4000)
-// 5) Run `npm run dev` and open the app.
+
 
 import { useState } from "react";
 
